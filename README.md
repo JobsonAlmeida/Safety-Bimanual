@@ -3,7 +3,7 @@
 
 ## Goal
 
-This is a safety bimanual project that I have created as one of the projects required in the course [Treinamento em Lógica Ladder para CLP/PLC](https://www.udemy.com/course/treinamento-em-logica-ladder-para-plc/)
+This is a safety bimanual project that I have created using ladder language as one of the projects required in the course [Treinamento em Lógica Ladder para CLP/PLC](https://www.udemy.com/course/treinamento-em-logica-ladder-para-plc/)
 
 
 
